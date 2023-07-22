@@ -1,0 +1,30 @@
+*body{
+    padding: 10px;
+    margin: 10px;
+    font-family: 'Roboto', sans-serif;
+}
+.navbar{
+    
+}
+.nav-liste{
+
+    margin: 2px;
+    padding: 2px;
+    background-color: white;
+    display: flex;
+    list-style: none;
+
+}
+
+.nav-item{
+
+    padding: 2px;
+    margin: 2px;
+
+
+}
+.nav-item a{
+        text-decoration: none;
+        text-align: right;
+        
+}
